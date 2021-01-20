@@ -1,2 +1,11 @@
 here is i am starting my repo on local
 this is not cloned from any remote repo
+
+making a chnage from git hub
+
+created a new branches
+
+and now pushing the change to learnBranchConcepts i dnt lknow.not refecting on github.g
+
+
+m on learnBranchConcept
